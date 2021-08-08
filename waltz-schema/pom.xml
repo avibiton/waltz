@@ -116,7 +116,7 @@
             <properties>
                 <database.url>jdbc:mysql://127.0.0.1:3306/waltz</database.url>
                 <database.user>root</database.user>
-                <database.password></database.password>
+                <database.password>sealights</database.password>
                 <database.schema>waltz</database.schema>
             </properties>
         </profile>
